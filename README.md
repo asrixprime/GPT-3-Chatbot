@@ -4,25 +4,16 @@
 
 ![](./assets/screenshot_samantha.png)
 
-Implementation of Samantha chatbot from ![Her](<https://en.wikipedia.org/wiki/Her_(film)>)
-
-Related works: https://github.com/ali-essam/Her-OS-One-Samantha-Experiment
-
 ## v1.5 Kara
 
 Implementation of Kara: The Digital Human ( now, with face! :P )
 
 ![](./assets/kara_screenshot_2.png)
 
-Cedits:
-
-The mesh is from The ![WikiHuman Project](https://vgl.ict.usc.edu/Data/DigitalEmily2/)
-The name "Kara" is inspired by ![Detroid:Become Human](https://store.steampowered.com/agecheck/app/1222140/)
-
 ## SETUP
 
 ```bash
-git clone https://github.com/Juppiter-AI-Labs/GPT-3-Chatbot.git
+git clone https://github.com/asrixprime/GPT-3-Chatbot.git
 cd GPT-3-Chatbot
 git checkout rasa
 ```
